@@ -6,6 +6,7 @@ import acm.program.ConsoleProgram;
 import java.awt.*;
 
 public class Hangman extends ConsoleProgram{
+    
     int lives = 8;
     private HangmanCanvas canvas;
     @Override
